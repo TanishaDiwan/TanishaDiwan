@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Tanisha Diwan</h1>
 <h3 align="center">A passionate Computer Science and Engineering student on a journey to explore and innovate in the world of technology.</h3>
 
